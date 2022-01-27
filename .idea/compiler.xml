@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aop-ltw" />
+        <module name="aop-native" />
+        <module name="spring-02-solution" />
+        <module name="aop-ctw" />
+        <module name="spring-03-spring-boot" />
+        <module name="aop-ctw-plain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aop-ctw" target="11" />
+      <module name="aop-ctw-plain" target="11" />
+      <module name="aop-demo" target="1.5" />
+      <module name="aop-ltw" target="11" />
+      <module name="aop-native" target="11" />
+      <module name="spring-01" target="1.5" />
+      <module name="spring-01-solution" target="11" />
+      <module name="spring-02-solution" target="11" />
+      <module name="spring-03-spring-boot" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-03-spring-boot" options="-parameters" />
+    </option>
+  </component>
+</project>

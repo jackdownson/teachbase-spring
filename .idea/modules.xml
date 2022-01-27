@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-02/aop-ctw/aop-ctw.iml" filepath="$PROJECT_DIR$/spring-02/aop-ctw/aop-ctw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02/aop-ctw-plain/aop-ctw-plain.iml" filepath="$PROJECT_DIR$/spring-02/aop-ctw-plain/aop-ctw-plain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02/aop-demo.iml" filepath="$PROJECT_DIR$/spring-02/aop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02/aop-ltw/aop-ltw.iml" filepath="$PROJECT_DIR$/spring-02/aop-ltw/aop-ltw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02/aop-native/aop-native.iml" filepath="$PROJECT_DIR$/spring-02/aop-native/aop-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-01.iml" filepath="$PROJECT_DIR$/spring-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-01/spring-02-solution.iml" filepath="$PROJECT_DIR$/spring-01/spring-02-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-03/spring-03-spring-boot.iml" filepath="$PROJECT_DIR$/spring-03/spring-03-spring-boot.iml" />
+    </modules>
+  </component>
+</project>
